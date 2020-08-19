@@ -3,5 +3,6 @@ members = [
     "s_q",
     "recursion",
     "sorting",
-    "lists"
+    "lists",
+    "trees"
 ]

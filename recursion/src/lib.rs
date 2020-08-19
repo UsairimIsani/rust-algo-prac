@@ -1,7 +1,7 @@
 #![feature(test)]
 pub mod factorial;
 pub mod fib;
-pub mod multiplier;
+// pub mod multiplier;
 extern crate test;
 pub fn add_two(a: i32) -> i32 {
     a + 2
